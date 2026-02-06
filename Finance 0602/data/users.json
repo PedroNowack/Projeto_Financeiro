@@ -1,0 +1,25 @@
+{
+    "admin": {
+        "id": 1,
+        "username": "admin",
+        "password": "123456",
+        "salary": "1650",
+        "categories": [
+            {
+                "name": "Lazer",
+                "percentage": 20,
+                "color": "#343498"
+            },
+            {
+                "name": "Sobreviv\u00eancia",
+                "percentage": 10,
+                "color": "#2170ba"
+            },
+            {
+                "name": "Investimentos",
+                "percentage": 70,
+                "color": "#151542"
+            }
+        ]
+    }
+}
