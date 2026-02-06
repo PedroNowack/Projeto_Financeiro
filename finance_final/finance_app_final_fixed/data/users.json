@@ -1,0 +1,22 @@
+{
+    "admin": {
+        "id": 1,
+        "username": "admin",
+        "password": "123456",
+        "salary": 2500.0,
+        "categories": [
+            {
+                "name": "Finan\u00e7as",
+                "percentage": 10
+            },
+            {
+                "name": "Lazer",
+                "percentage": 30
+            },
+            {
+                "name": "Sobreviv\u00eancia",
+                "percentage": 60
+            }
+        ]
+    }
+}
